@@ -6,9 +6,9 @@ A simple console-based Tic-Tac-Toe game in JavaScript. Play against the computer
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/Tic-Tac-Toe.git
-  ```
+```bash
+ git clone https://github.com/your-username/Tic-Tac-Toe.git
+```
 
 ### Installation
 
